@@ -1,0 +1,1 @@
+# Identificacao_de_Bloqueio_por_Hidrato_em_Linhas_de_Servico_de_Pocos_Produtores_de_Oleo
